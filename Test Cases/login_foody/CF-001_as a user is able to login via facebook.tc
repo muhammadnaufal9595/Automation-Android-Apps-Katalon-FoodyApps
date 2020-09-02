@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can login to foody apps using facebook account</description>
+   <name>CF-001_as a user is able to login via facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4056293e-015b-4d97-a452-12e524f330d6</testCaseGuid>
+</TestCaseEntity>

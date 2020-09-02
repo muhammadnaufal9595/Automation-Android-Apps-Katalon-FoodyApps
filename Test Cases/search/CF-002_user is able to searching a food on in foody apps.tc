@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user can search a food using search bar in foody apps</description>
+   <name>CF-002_user is able to searching a food on in foody apps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd08bf40-db6a-4193-b718-0e6d7240cba6</testCaseGuid>
+</TestCaseEntity>
